@@ -5,6 +5,8 @@ title: FRC Rules
 
 {% include stub %}
 
+Rules are traditionally split up into three groups of rules per year; Game, Robot and Tournament rules. Each rule is assigned a number then given a prefix according to which of those three categories they fall into.
+
 2016 Rules
 ===========
 
